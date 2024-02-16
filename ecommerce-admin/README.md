@@ -21,6 +21,13 @@ Pick the components you need. Copy and paste the code into your project and cust
 
 you can just add components using npm commands and edit them with tailwind css
 
+## Authentication:
+
+Authentication is done using Clerk. Clerk is a 3rd party authentication.
+
+Sign in Screen:
+![sing in](readme_images/Capture.JPG)
+
 <!--
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
