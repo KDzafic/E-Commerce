@@ -1,6 +1,8 @@
 - pesticide - chrome extension good to see the layout of components
 - A route group can be created by wrapping a folder's name in parenthesis: (folderName)
 
+- npm zustand for global variables
+
 - in next evbery folder is a new route
 
 # E-Commerce
@@ -27,6 +29,8 @@ Authentication is done using Clerk. Clerk is a 3rd party authentication.
 
 Sign in Screen:
 ![sing in](readme_images/Capture.JPG)
+
+n
 
 <!--
 
