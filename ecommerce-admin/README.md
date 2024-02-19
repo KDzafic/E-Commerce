@@ -30,7 +30,9 @@ Authentication is done using Clerk. Clerk is a 3rd party authentication.
 Sign in Screen:
 ![sing in](readme_images/Capture.JPG)
 
-n
+## Prisma
+
+for database conection?
 
 <!--
 
