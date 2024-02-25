@@ -21,4 +21,4 @@ To run the app:
 ## Authentication:
 
 Sign in Screen:
-![sing in](../E-Commerce/ecommerce-admin/readme_images/Capture.PNG)
+![sing in](/ecommerce-admin/readme_images/Capture.PNG)
